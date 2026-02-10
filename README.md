@@ -1,2 +1,2 @@
 # aws_ec2_notification
-EC2の稼働チェック
+AWSの消し忘れを防止するために、Terraformで自動通知の仕組みを作りました。
